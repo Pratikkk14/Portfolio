@@ -1,0 +1,16 @@
+name: Thank You on Push
+
+on:
+  push:
+
+jobs:
+  say-thanks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Print Thank You Message
+        run: |
+          echo "Thank you, ${{ github.actor }}!"
+          echo "Latest commit message: ${{ github.event.head_commit.message }}"
