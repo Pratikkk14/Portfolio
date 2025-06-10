@@ -1,5 +1,17 @@
 # Hello World!, I'm Pratik 👋🏼:
-🛜 currently learning Cloud <br>👨🏼‍🎓 studying Computer Engineering at Vidyalankar Institute of Technology <br>👨🏼‍💻 I am a AI/ML enthusiast who is always keen on learning new techstacks <br>
+
+I’m a passionate full-stack & machine-learning developer based in Mumbai, India.  
+With a background in Python, C++, Java, JavaScript, and SQL, I build everything from **event-driven backends** to **AI-driven applications**.  
+As a GDG Lead aspirant, I’m dedicated to organizing meetups, mentoring peers, and driving tech-forward community initiatives.
+
+- 🔭 Currently building **LangSQL**, a natural-language → SQL translator powered by T5.  
+- 🌱 Exploring advanced **ML model interpretability** and **metadata-driven database tooling**.  
+- 🎓 Studying Computer Engineering at Vidyalankar Institute of Technology.  
+- 🏆 3-time hackathon finalist (COEP’s INSPIRON and others), focused on AI-based solutions.  
+- 🤝 Always happy to collaborate on open-source projects or help with event planning and documentation.
+
+---
+
 # 💻 Tech Stack:
 <p>A passionate full developer and AI/ML enthusias </p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -28,17 +40,24 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
+  
+<a target="_blank" href="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
+
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>https://www.linkedin.com/posts/pratik-pujari-186883303_ai-hackathon-coep-activity-7336248284308508673-lql2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE2MrTYBX-fqQBbZKZC_xyoXdUBp_snzBeE</ul>
-<li><a target="_blank" href=""></a></li>
+
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Pratik Pujari" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-pujari-186883303/)](https://www.linkedin.com/in/pratik-pujari-186883303/)  
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://x.com/pratik_pujari14)](https://x.com/pratik_pujari14)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:pratik146971@gmail.com)](mailto:pratik146971@gmail.com)
+
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratikkk14&show_icons=true&locale=en" alt="Pratikkk14" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratikkk14&" alt="Pratikkk14" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratikkk14&show_icons=true&locale=en&layout=compact" alt="Pratikkk14" /></p>
