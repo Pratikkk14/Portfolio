@@ -1,40 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Me | Pratik's Portfolio</title>
-    <link rel="stylesheet" href="styles.css"><!-- Optional: link to your CSS -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contact Details</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+    }
+    .container {
+      max-width: 600px;
+      margin: 80px auto;
+      background: #ffffff;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .contact-item {
+      margin: 20px 0;
+      font-size: 18px;
+    }
+    .label {
+      font-weight: bold;
+      color: #555;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 14px;
+      color: #888;
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1>Contact Me</h1>
-        <p>Feel free to reach out for collaborations or just a friendly hello!</p>
-    </header>
-    <main>
-        <form id="contact-form" action="mailto:your.email@example.com" method="POST" enctype="text/plain">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
 
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
+  <div class="container">
+    <h1>Contact Details</h1>
+    
+    <div class="contact-item">
+      <span class="label">Name:</span> Pratik Pujari
+    </div>
+    
+    <div class="contact-item">
+      <span class="label">Email:</span> <a href="mailto:pratik146971@gmail.com">pratik146971@gmail.com</a>
+    </div>
+    
+    <div class="contact-item">
+      <span class="label">Phone:</span> +91-8767638547
+    </div>
+    
+    <div class="contact-item">
+      <span class="label">Location:</span>Mumbai, India
+    </div>
+    
+    <div class="contact-item">
+      <span class="label">GitHub:</span> <a href="https://github.com/Pratikkk14" target="_blank">https://github.com/Pratikkk14</a>
+    </div>
+    
+    <div class="contact-item">
+      <span class="label">LinkedIn:</span> <a href="https://www.linkedin.com/in/pratik-pujari-186883303/" target="_blank">linkedin.com/in/pratik-pujari/</a>
+    </div>
+    
+    
+  </div>
 
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" rows="5" required></textarea>
+  <footer>
+    &copy; 2025 Sahil Khilari
+  </footer>
 
-            <button type="submit">Send</button>
-        </form>
-        <section>
-            <h2>Other Ways to Connect</h2>
-            <ul>
-                <li><a href="https://www.linkedin.com/in/Pratik Pujari" target="_blank">LinkedIn</a></li>
-                <li><a href="pratik146971@gmail.com">Email</a></li>
-                <!-- Add more links as needed -->
-            </ul>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2025 Pratik Pujari</p>
-    </footer>
 </body>
 </html>
