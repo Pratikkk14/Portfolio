@@ -64,5 +64,5 @@ As a GDG Lead aspirant, I’m dedicated to organizing meetups, mentoring peers, 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pratikkk14" alt="Pratikkk14" /></a></p>
 
 <p align="center">
-  <img src="https://github.com/Pratikkk14/Pratikkk14/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Pratikkk14/Portfolio/output/github-snake-dark.svg" alt="snake gif" />
 </p>
