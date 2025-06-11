@@ -13,7 +13,7 @@ As a GDG Lead aspirant, I’m dedicated to organizing meetups, mentoring peers, 
 ---
 
 # 💻 Tech Stack:
-<p>A passionate full developer and AI/ML enthusias </p>
+<p>A passionate full stack developer and AI/ML enthusias </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -38,11 +38,9 @@ As a GDG Lead aspirant, I’m dedicated to organizing meetups, mentoring peers, 
 <a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
+<a target="_blank" href="https://www.pngrepo.com/download/353475/bash.png" style="display: inline-block;"><img src="https://www.pngrepo.com/download/353475/bash.png" alt="bash" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-  
-<a target="_blank" href="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
-
+<a target="_blank" href="https://th.bing.com/th/id/R.b1c7915bb813b58c46c7d08a2bf6f567?rik=2j8zAkmT2yYu3A&riu=http%3a%2f%2faishelf.org%2fwp-content%2fuploads%2f2019%2f04%2fflask.png&ehk=ANCe1tghYE8Mhzpry43LB99tc4mSvmMeOkMhy5nHfjI%3d&risl=&pid=ImgRaw&r=0" style="display: inline-block;"><img src="https://th.bing.com/th/id/R.b1c7915bb813b58c46c7d08a2bf6f567?rik=2j8zAkmT2yYu3A&riu=http%3a%2f%2faishelf.org%2fwp-content%2fuploads%2f2019%2f04%2fflask.png&ehk=ANCe1tghYE8Mhzpry43LB99tc4mSvmMeOkMhy5nHfjI%3d&risl=&pid=ImgRaw&r=0" alt="flask" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
@@ -51,11 +49,10 @@ As a GDG Lead aspirant, I’m dedicated to organizing meetups, mentoring peers, 
 
 <h2>⚡️ Where to find me</h2>
 <p>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-pujari-186883303/)](https://www.linkedin.com/in/pratik-pujari-186883303/)  
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://x.com/pratik_pujari14)](https://x.com/pratik_pujari14)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:pratik146971@gmail.com)](mailto:pratik146971@gmail.com)
+[<img src="https://logosmarcas.net/wp-content/uploads/2020/03/LinkedIn-Emblema.png" alt="LinkedIn" width="50" height="30">](https://www.linkedin.com/in/pratik-pujari-186883303/) 
+[<img src="https://www.sarkarinaukriexams.com/images/import/sne13333514974.png" alt="Twitter X" width="40" height="30">](https://x.com/pratik_pujari14)
+[<img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" alt="Gmail" width="50" height="30">](mailto:pratik146971@gmail.com)
 
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratikkk14&show_icons=true&locale=en" alt="Pratikkk14" /></p>
